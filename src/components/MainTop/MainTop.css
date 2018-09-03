@@ -1,0 +1,34 @@
+.ima{
+    
+    
+    background-image: linear-gradient(
+        to bottom,
+        rgba(186, 170, 243, 0.4),
+        rgba(207, 104, 102, 0.2)
+      ), url(http://ryanscherf.net/images/header.gif);
+   
+}
+
+.tex{
+    font-size: 300%;
+    font-family: 'Questrial', sans-serif;
+}
+.fa{
+    display: flex;
+    margin-top:1%;
+    margin-left:47%;
+}
+
+.fac{
+    height:150px;
+    width:150;
+    /* margin-top:40px;
+    margin-left:890px; */
+    /* margin-left:95vh; */
+
+}
+.bottomT{
+    font-family: 'Questrial', sans-serif;
+    font-size: 115%;
+    
+}
