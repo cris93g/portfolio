@@ -27,7 +27,8 @@ const LeftM = styled.section`
 	heigh: 100%;
 `;
 const RightM = styled.section`
-	height: 400px;
+	width: 284.75px;
+	height: 379.672px;
 `;
 
 const Wrapper = styled.section`
