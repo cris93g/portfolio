@@ -86,7 +86,7 @@ class About extends Component {
 							</p>
 						</LeftM>
 						<RightM>
-							<img className="pro" src={require("./prof.jpg")} />
+							{/* <img className="pro" src={require("./prof.jpg")} /> */}
 						</RightM>
 					</Main>
 				</TopWrapper>
